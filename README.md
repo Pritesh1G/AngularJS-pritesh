@@ -1,2 +1,3 @@
 # AngularJS-pritesh
-Test Repo For AngularJS Projects
+ Repo For Single Page Web Applications with AngularJS 
+ Projects and Assignments
