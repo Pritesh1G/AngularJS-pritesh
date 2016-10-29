@@ -1,0 +1,16 @@
+.color-green {
+  color: green;
+  border-style: solid;
+  border-color: green;
+}
+
+.color-toomuch {
+  border-style: solid;
+  border-color: red;
+}
+
+.color-red {
+  color: red;
+  border-style: solid;
+  border-color: green;
+}
